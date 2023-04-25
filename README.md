@@ -1,1 +1,2 @@
 # Homology-Modelling-for-Catnap-Dataset
+This project focuses on developing an automated algorithm to generate a large number of homology models using multiple templates. The traditional method of manual sequence alignment is time-consuming and error-prone. The automated algorithm incorporates all the necessary steps for generating models with Modeller, from sequence alignment to model building. The algorithm simplifies the process and enables easy generation of multiple homology models using just the target sequence and template structures as inputs.
